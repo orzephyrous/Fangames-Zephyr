@@ -14,4 +14,4 @@ Original project files of I Wanna Be The Guy Fangames made by Zephyr (not includ
 | I wanna have some weird needles | 2021.02.17   | Needle, 25 floors (**hard**)                    |
 | I wanna seize the day           | 2021.02.20   | Needle, short (*24h needle*)                    |
 | I wanna seize the grid          | 2021.07.18   | Needle, short, 32px (*60h needle*)              |
-
+| Weirdle 4                       | 2021.08.11   | Needle, short (**hard**)                        |
