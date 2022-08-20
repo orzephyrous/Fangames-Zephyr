@@ -16,4 +16,5 @@ Original project files of I Wanna Be The Guy Fangames made by Zephyr (not includ
 | I wanna seize the grid | 2021.07.18 | Needle, short, 32px (*60h needle*) |
 | Weirdle 4 | 2021.08.11 | Needle, short (**hard**) |
 | I wanna freeze the art | 2022.04.22 | Needle, pixel art (*winter vacation needle*) |
-| Weirdle 5 | 2021.07.19 | Needle, gimmick, catharsis water derivants |
+| Weirdle 5 | 2022.07.19 | Needle, gimmick, catharsis water derivants |
+| Weirdle sp | 2022.08.20| Needle (water, platform, vine), big room (*FASF2022 needle tournament*) |
